@@ -2,7 +2,7 @@ require 'scraperwiki'
 require 'mechanize'
 
 starting_url = 'http://pdonline.redland.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=found&1=thismonth&4a=BD%27,%27BW%27,%27BA%27,%27MC%27,%27MCU%27,%27OPW%27,%27BWP%27,%27APS%27,%27ROL%27,%27MCSS%27,%27OP%27,%27EC%27,%27SB%27,%27SBSS%27,%27BX&6=F'
-comment_url = 'mailto:waver@waverley.nsw.gov.au?subject='
+comment_url = 'mailto:rcc@redland.qld.gov.au?subject='
 
 def clean_whitespace(a)
   a.gsub("\r", ' ').gsub("\n", ' ').squeeze(" ").strip
