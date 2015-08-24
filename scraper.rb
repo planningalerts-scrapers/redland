@@ -20,7 +20,7 @@ def scrape_table(doc, comment_url)
       'comment_url' => comment_url + CGI::escape("Development Application Enquiry: " + clean_whitespace(h[1])),
       'council_reference' => clean_whitespace(h[1]),
       'date_received' => Date.strptime(clean_whitespace(h[2]), '%d %b %Y').to_s,
-      'address' => clean_whitespace(h[3].split('<br>')[0]),
+      'address' => clean_whitespace(tds.at(:strong).inner_text),
       'description' => CGI::unescapeHTML(clean_whitespace(h[3].split('<br>')[1..-1].join)),
       'date_scraped' => Date.today.to_s
     }
