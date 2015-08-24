@@ -56,9 +56,6 @@ end
 
 agent = Mechanize.new
 
-# Jump through bollocks agree screen
-doc = agent.get(starting_url)
-doc = doc.forms.first.submit(doc.forms.first.button_with(:value => "I Agree"))
 doc = agent.get(starting_url)
 
 scrape_and_follow_next_link(doc, comment_url)
