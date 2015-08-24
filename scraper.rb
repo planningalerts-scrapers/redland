@@ -1,5 +1,4 @@
 require 'scraperwiki'
-require 'rubygems'
 require 'mechanize'
 
 starting_url = 'https://epwgate.waverley.nsw.gov.au/DA_Tracking/Modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=448&6=F'
