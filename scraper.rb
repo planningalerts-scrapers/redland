@@ -1,7 +1,7 @@
 require 'scraperwiki'
 require 'mechanize'
 
-starting_url = 'https://epwgate.waverley.nsw.gov.au/DA_Tracking/Modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=448&6=F'
+starting_url = 'http://pdonline.redland.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=found&1=thismonth&4a=BD%27,%27BW%27,%27BA%27,%27MC%27,%27MCU%27,%27OPW%27,%27BWP%27,%27APS%27,%27ROL%27,%27MCSS%27,%27OP%27,%27EC%27,%27SB%27,%27SBSS%27,%27BX&6=F'
 comment_url = 'mailto:waver@waverley.nsw.gov.au?subject='
 
 def clean_whitespace(a)
