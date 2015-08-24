@@ -14,7 +14,7 @@ def scrape_table(doc, comment_url)
     # Show  Number  Submitted  Details
     tds = tr.search('td')
     h = tds.map{|td| td.inner_html}
-  
+
     record = {
       'info_url' => (doc.uri + tds[0].at('a')['href']).to_s,
       'comment_url' => comment_url + CGI::escape("Development Application Enquiry: " + clean_whitespace(h[1])),
@@ -24,7 +24,7 @@ def scrape_table(doc, comment_url)
       'description' => CGI::unescapeHTML(clean_whitespace(h[3].split('<br>')[1..-1].join)),
       'date_scraped' => Date.today.to_s
     }
-    
+
     #pp record
     if ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? 
       ScraperWiki.save_sqlite(['council_reference'], record)
