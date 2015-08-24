@@ -1,1 +1,1 @@
-Gets development applications for [Redland City Council](http://pdonline.redland.qld.gov.au/Modules/ApplicationMaster/).
+Gets development applications for [Redland City Council](http://pdonline.redland.qld.gov.au/Modules/ApplicationMaster/). Forked from the [Waverley scraper](https://github.com/planningalerts-scrapers/waverley).
