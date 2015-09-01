@@ -11,6 +11,11 @@ end
 
 def scrape_table(doc, comment_url)
   doc.search('table tbody tr').each do |tr|
+    if tr.inner_text =~ /There where no records/
+      puts "No records found."
+      return
+    end
+
     # Columns in table
     # Show  Number  Submitted  Details
     tds = tr.search('td')
