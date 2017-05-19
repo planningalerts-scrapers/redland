@@ -15,8 +15,11 @@ url_base    = 'http://pdonline.redland.qld.gov.au'
 da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=' + period + '&k=LodgementDate&t=BD,BW,BA,MC,MCU,OPW,BWP,APS,MCSS,OP,EC,SB,SBSS,PD,BX,ROL'
 comment_url = 'mailto:rcc@redland.qld.gov.au?subject='
 
-# Accept terms
+# setup agent and turn off gzip as council web site returning 'encoded-content: gzip,gzip'
 agent = Mechanize.new
+agent.request_headers = { "Accept-Encoding" => "" }
+
+# Accept terms
 page = agent.get(url_base + '/Common/Common/terms.aspx')
 form = page.forms.first
 form["ctl00$ctMain$BtnAgree"] = "I Agree"
