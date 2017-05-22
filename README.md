@@ -1,1 +1,14 @@
-Gets development applications for [Redland City Council](http://pdonline.redland.qld.gov.au/Modules/ApplicationMaster/). Forked from the [Waverley scraper](https://github.com/planningalerts-scrapers/waverley).
+# Redland City Council Scraper
+
+This Council involves the followings
+* Terms to Agreed - Yes
+* Cookie - Yes
+* Scrape detail page - No
+* Clearly defined data within a row - Yes
+
+Setup MORPH_PERIOD for data recovery, available options are
+* thisweek (default)
+* thismonth
+* lastmonth
+
+Enjoy
