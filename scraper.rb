@@ -13,7 +13,7 @@ puts "Getting '" + period + "' data, changable via MORPH_PERIOD environment";
 
 url_base    = 'http://pdonline.redland.qld.gov.au'
 da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=' + period + '&k=LodgementDate&t=BD,BW,BA,MC,MCU,OPW,BWP,APS,MCSS,OP,EC,SB,SBSS,PD,BX,ROL,QRAL'
-comment_url = 'mailto:rcc@redland.qld.gov.au?subject='
+comment_url = 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry: '
 
 # setup agent and turn off gzip as council web site returning 'encoded-content: gzip,gzip'
 agent = Mechanize.new
