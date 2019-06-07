@@ -1,0 +1,153 @@
+---
+- council_reference: BX318446
+  address: 9 Sunshine Drive, Cleveland QLD 4163
+  description: Garage / Shed
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776160
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    BX318446'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: BX318455
+  address: 6 Rauburn Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776751
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    BX318455'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: BX318456
+  address: 5 Church Street, Victoria Point QLD 4165
+  description: Addition and Patio
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776761
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    BX318456'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: BX318457
+  address: 19 Yarrong Road, Point Lookout QLD 4183
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776769
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    BX318457'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: BX318471
+  address: 5 Medina Court, Ormiston QLD 4160
+  description: Addition or Extensions
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776935
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    BX318471'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: BX318472
+  address: 23 Highland Street, Russell Island QLD 4184
+  description: New Dwelling, Attached Garage, Carport & Attached Alfresco
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776949
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    BX318472'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: PD237729
+  address: 24 Emerson Street, Russell Island QLD 4184
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775750
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237729'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: PD237730
+  address: 23 Topatig Street, Cleveland QLD 4163
+  description: Connect dwelling to sewer
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775844
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237730'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: PD237732
+  address: 18 Handsworth Street, Capalaba QLD 4157
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775971
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237732'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: PD237734
+  address: 6 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776308
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237734'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: PD237736
+  address: 7 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776329
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237736'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: PD237737
+  address: 11 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776345
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237737'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PD237738
+  address: 8 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776356
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237738'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PD237739
+  address: 4 Newburgh Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776382
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237739'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PD237740
+  address: 6 Rauburn Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776407
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237740'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: PD237741
+  address: 13 Woodside Way, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776435
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237741'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: PD237742
+  address: 26 Musgrave Street, Wellington Point QLD 4160
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776446
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237742'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: PD237743
+  address: 50 Sentinel Court, Cleveland QLD 4163
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776814
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237743'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: PD237745
+  address: 22 Edinburgh Street, Victoria Point QLD 4165
+  description: Proposed Lot 3 - Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776920
+  comment_url: 'mailto:rcc@redland.qld.gov.au?subject=Development Application Enquiry:
+    PD237745'
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
