@@ -42,7 +42,11 @@ results.each do |result|
 
   date_received = result.inner_text
   date_received = date_received.split( /\r?\n/ )
-  date_received = Date.parse(date_received[6].strip.to_s)
+  begin
+    date_received = Date.parse(date_received[6].strip.to_s)
+  rescue ArgumentError
+    date_received = nil
+  end
 
   record = {
     'council_reference' => council_reference,
@@ -53,6 +57,11 @@ results.each do |result|
     'date_scraped'      => Date.today.to_s,
     'date_received'     => date_received
   }
+
+  if date_received.nil?
+    puts "Date received wasn't valid for this record so skipping: #{record.inspect}"
+    next
+  end
 
   # Saving data
   puts "Saving record " + record['council_reference'] + ", " + record['address']
