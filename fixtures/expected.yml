@@ -1,10 +1,106 @@
 ---
+- council_reference: BX318398
+  address: 32 King Island Drive, Wellington Point QLD 4160
+  description: Dwelling House - Class 1a
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774077
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: BX318410
+  address: 17 Yacht Street, Russell Island QLD 4184
+  description: New Dwelling- Dwelling and Carport
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774429
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: BX318412
+  address: 65 Colburn Avenue, Victoria Point QLD 4165
+  description: Dual Occupancy
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774498
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: BX318430
+  address: 5 Rauburn Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775161
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: BX318432
+  address: 3 Beverley Court, Redland Bay QLD 4165
+  description: Carport / Boatport - Carport 6.3m X 3.5m Class 10a
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775175
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: BX318433
+  address: 5 Bonnyton Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775251
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: BX318434
+  address: 10 Rauburn Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775257
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: BX318435
+  address: 4 Scotby Court, Alexandra Hills QLD 4161
+  description: Patio / Gazebo - Patio Roof
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775285
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: BX318442
+  address: 4 Bonnyton Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776094
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: BX318443
+  address: 5 Woodside Way, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776115
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: BX318444
+  address: 3 Nandeebie Court, Cleveland QLD 4163
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776118
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: BX318445
+  address: 60 Tramican Street, Point Lookout QLD 4183
+  description: Addition or Extensions - Roof replacement
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776134
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: BX318446
   address: 9 Sunshine Drive, Cleveland QLD 4163
   description: Garage / Shed
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776160
   date_scraped: '2019-05-15'
   date_received: '2019-06-04'
+- council_reference: BX318447
+  address: 30 Cavell Street, Birkdale QLD 4159
+  description: Carport / Boatport
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776174
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: BX318452
+  address: 56 Double Jump Road, Victoria Point QLD 4165
+  description: Demolition Of Building and Structures
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776652
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: BX318453
+  address: 33 - 35 Egret Drive, Victoria Point QLD 4165
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776706
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: BX318454
+  address: 58 Koala Place, Capalaba QLD 4157
+  description: Patio / Gazebo - Entry Patio
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776745
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
 - council_reference: BX318455
   address: 6 Rauburn Street, Thornlands QLD 4164
   description: New Dwelling
@@ -16,13 +112,61 @@
   description: Addition and Patio
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776761
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
+  date_received: '2019-05-27'
 - council_reference: BX318457
   address: 19 Yarrong Road, Point Lookout QLD 4183
   description: New Dwelling
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776769
   date_scraped: '2019-05-15'
   date_received: '2019-06-05'
+- council_reference: BX318460
+  address: 88 Howlett Road, Capalaba QLD 4157
+  description: Patio / Gazebo
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776801
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: BX318462
+  address: 13 Ribonwood Street, Thornlands QLD 4164
+  description: Patio / Gazebo
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776813
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: BX318463
+  address: 330 Mount Cotton Road, Capalaba QLD 4157
+  description: Patio / Gazebo - Patio x 2
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776825
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: BX318465
+  address: 8 / 6 Harbourview Court, Cleveland QLD 4163
+  description: Patio / Gazebo - Patios x 2
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776828
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: BX318467
+  address: 363 Redland Bay Road, Capalaba QLD 4157
+  description: Patio / Gazebo
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776861
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: BX318468
+  address: 94 Princess Street, Cleveland QLD 4163
+  description: Carport / Boatport - Carport
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776885
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: BX318469
+  address: 6 Gradi Court, Thorneside QLD 4158
+  description: Addition or Extensions - Additions & Carport
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776918
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: BX318470
+  address: 11 Bonnyton Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776923
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: BX318471
   address: 5 Medina Court, Ormiston QLD 4160
   description: Addition or Extensions
@@ -35,6 +179,193 @@
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776949
   date_scraped: '2019-05-15'
   date_received: '2019-06-04'
+- council_reference: BX318475
+  address: 10 Whitehall Avenue, Birkdale QLD 4159
+  description: Garage / Shed
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776984
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: BX318476
+  address: 23 Adrian Street, Victoria Point QLD 4165
+  description: Inground Pool
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777004
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: BX318477
+  address: 37 Osprey Drive, Thornlands QLD 4164
+  description: Garage / Shed
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777011
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: BX318480
+  address: 60 Korsman Drive, Thornlands QLD 4164
+  description: New Dwelling - Class 1A
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777028
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: BX318481
+  address: 33 Kingsdale Avenue, Thornlands QLD 4164
+  description: New Dwelling - Class 1a
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777044
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: BX318482
+  address: 7 Bonnyton Street, Thornlands QLD 4164
+  description: New Dwelling - Class 1a
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777049
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: BX318483
+  address: 571 - 585 Redland Bay Road, Victoria Point QLD 4165
+  description: Building Class 9 Assessment - Refurbishment and extension/additions
+    to existing Community Hall - Seventh Day Adventist
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777052
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: BX318484
+  address: 13 Woodside Way, Thornlands QLD 4164
+  description: New Dwelling- Class 1a
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777053
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: BX318486
+  address: 31 - 33 Sugarglider Court, Mount Cotton QLD 4165
+  description: Deck - Roofed Deck
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777064
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: BX318491
+  address: 4 Newburgh Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777380
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: BX318492
+  address: 8 Bonnyton Street, Thornlands QLD 4164
+  description: New Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777387
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: OPW002288
+  address: 58 Mount Cotton Road, Capalaba QLD 4157
+  description: Operational Works - Multi-unit dwelling x 9 (Stage 2)
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1771692
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: PD235845
+  address: 45 - 47 Shore Street East, Cleveland QLD 4163
+  description: Apartment Building x 86 Units - Toondah Outlook Stage 1
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1616387
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: PD236215
+  address: 45 - 47 Shore Street East, Cleveland QLD 4163
+  description: Apartment Building x 14 Units - Toondah Outlook Stage 2
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1641301
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: PD237481
+  address: 500 / 58 Mount Cotton Road, Capalaba QLD 4157
+  description: Multiple Dwelling x 9 - Stage Two - Units 42 to 50
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1752841
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: PD237713
+  address: 21 Colburn Avenue, Victoria Point QLD 4165
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774320
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: PD237714
+  address: 10 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774341
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: PD237715
+  address: 381 - 387 Main Road, Wellington Point QLD 4160
+  description: Installation of Food Waste Digester
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774348
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: PD237716
+  address: 40 Kingsdale Avenue, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774365
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-27'
+- council_reference: PD237717
+  address: 5 Rauburn Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774679
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-28'
+- council_reference: PD237718
+  address: 26 Woodlands Circuit, Russell Island QLD 4184
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774882
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: PD237719
+  address: 5 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774893
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: PD237720
+  address: 10 Rauburn Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774960
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: PD237721
+  address: 71 Channel Street, Cleveland QLD 4163
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775070
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: PD237722
+  address: 33 - 35 Egret Drive, Victoria Point QLD 4165
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775192
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: PD237723
+  address: 5 Woodside Way, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775217
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: PD237724
+  address: 4 Bonnyton Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775222
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: PD237725
+  address: 16 Captains Court, Cleveland QLD 4163
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775284
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: PD237726
+  address: 26 A Empire Vista, Ormiston QLD 4160
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775310
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-30'
+- council_reference: PD237727
+  address: 32 Scott Street, Cleveland QLD 4163
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775434
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: PD237728
+  address: 1 - 75 Mount View Road, Mount Cotton QLD 4165
+  description: Removal of on site sewerage facility - dwelling demolished
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775573
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
 - council_reference: PD237729
   address: 24 Emerson Street, Russell Island QLD 4184
   description: Dwelling
@@ -53,10 +384,22 @@
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1775971
   date_scraped: '2019-05-15'
   date_received: '2019-06-04'
+- council_reference: PD237733
+  address: 11 Pecan Street, Macleay Island QLD 4184
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776056
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
 - council_reference: PD237734
   address: 6 Bonnyton Street, Thornlands QLD 4164
   description: Dwelling
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776308
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: PD237735
+  address: 7 Larkspur Street, Redland Bay QLD 4165
+  description: Secondary Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776313
   date_scraped: '2019-05-15'
   date_received: '2019-06-05'
 - council_reference: PD237736
@@ -106,10 +449,60 @@
   description: Dwelling
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776814
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
+  date_received: '2019-06-07'
+- council_reference: PD237744
+  address: 197 - 203 Bloomfield Street, Cleveland QLD 4163
+  description: IGA Supermarket - Tenancy 4 and 5
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776851
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
 - council_reference: PD237745
   address: 22 Edinburgh Street, Victoria Point QLD 4165
   description: Proposed Lot 3 - Dwelling
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776920
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
+  date_received: '2019-06-07'
+- council_reference: PD237746
+  address: 22 Edinburgh Street, Victoria Point QLD 4165
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776987
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: PD237749
+  address: 2 Cupania Street, Victoria Point QLD 4165
+  description: Connect Existing Dwelling to New Sewer
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777061
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: PD237751
+  address: 14 Rauburn Street, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777102
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: PD237752
+  address: 38 Kingsdale Avenue, Thornlands QLD 4164
+  description: Dwelling
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777109
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: RAL18/0121.01
+  address: 41 - 47 Fernbourne Road, Wellington Point QLD 4160
+  description: IA between Sutgold Pty Ltd and Redland City Council - 41-47 Fernbourne
+    Road, Wellington Point
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1774915
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-29'
+- council_reference: RAL19/0041
+  address: 55 Point O'Halloran Road, Victoria Point QLD 4165
+  description: Reconfiguring a Lot - Standard Format 1 into 2 Lots
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776099
+  date_scraped: '2019-05-15'
+  date_received: '2019-05-31'
+- council_reference: RAL19/0042
+  address: 108 Sturgeon Street, Ormiston QLD 4160
+  description: Reconfiguring a Lot - Standard Format 2 into 27 lots and 2 Habitat
+    Corridor Lots and New Road
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1777103
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'

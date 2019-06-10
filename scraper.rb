@@ -2,7 +2,7 @@ require 'scraperwiki'
 require 'mechanize'
 
 url_base    = 'http://pdonline.redland.qld.gov.au'
-da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=thisweek&k=LodgementDate&t=BD,BW,BA,MC,MCU,OPW,BWP,APS,MCSS,OP,EC,SB,SBSS,PD,BX,ROL,QRAL'
+da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=last14days&k=LodgementDate&t=BD,BW,BA,MC,MCU,OPW,BWP,APS,MCSS,OP,EC,SB,SBSS,PD,BX,ROL,QRAL'
 
 # setup agent and turn off gzip as council web site returning 'encoded-content: gzip,gzip'
 agent = Mechanize.new
