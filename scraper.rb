@@ -39,11 +39,11 @@ results.each do |result|
 
   record = {
     'council_reference' => council_reference,
-    'address'           => result.search('strong')[0].inner_text.strip.split.join(" "),
     'description'       => description,
-    'info_url'          => info_url,
+    'date_received'     => date_received,
+    'address'           => result.search('strong')[0].inner_text.strip.split.join(" "),
     'date_scraped'      => Date.today.to_s,
-    'date_received'     => date_received
+    'info_url'          => info_url
   }
 
   if date_received.nil?
