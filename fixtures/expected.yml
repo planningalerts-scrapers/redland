@@ -83,6 +83,14 @@
   address: 30 Cavell Street, Birkdale QLD 4159
   date_scraped: '2019-05-15'
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776174
+- council_reference: BX318451
+  description: |-
+    Demolition Of Building
+    And Structures
+  date_received: '2019-05-31'
+  address: 52 Double Jump Road, Victoria Point QLD 4165
+  date_scraped: '2019-05-15'
+  info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776643
 - council_reference: BX318452
   description: Demolition Of Building and Structures
   date_received: '2019-05-31'
@@ -457,7 +465,7 @@
   date_scraped: '2019-05-15'
   info_url: http://pdonline.redland.qld.gov.au/Pages/XC.Track/SearchApplication.aspx?id=1776851
 - council_reference: PD237745
-  description: Proposed Lot 3 - Dwelling
+  description: " Proposed Lot 3 - Dwelling"
   date_received: '2019-06-07'
   address: 22 Edinburgh Street, Victoria Point QLD 4165
   date_scraped: '2019-05-15'
