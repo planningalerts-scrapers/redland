@@ -1,18 +1,8 @@
 require 'scraperwiki'
 require 'mechanize'
 
-case ENV['MORPH_PERIOD']
-when 'thismonth'
-  period = 'thismonth'
-when 'lastmonth'
-  period = 'lastmonth'
-else
-  period = 'thisweek'
-end
-puts "Getting '" + period + "' data, changable via MORPH_PERIOD environment";
-
 url_base    = 'http://pdonline.redland.qld.gov.au'
-da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=' + period + '&k=LodgementDate&t=BD,BW,BA,MC,MCU,OPW,BWP,APS,MCSS,OP,EC,SB,SBSS,PD,BX,ROL,QRAL'
+da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=thisweek&k=LodgementDate&t=BD,BW,BA,MC,MCU,OPW,BWP,APS,MCSS,OP,EC,SB,SBSS,PD,BX,ROL,QRAL'
 
 # setup agent and turn off gzip as council web site returning 'encoded-content: gzip,gzip'
 agent = Mechanize.new
